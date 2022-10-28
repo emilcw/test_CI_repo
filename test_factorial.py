@@ -17,4 +17,10 @@ def test_main():
     assert factorial_steroids(3) == 6
     assert factorial_steroids(4) == 24
     assert factorial_steroids(5) == 120
+
+    #Test addition
+    assert addition(1,1) == 2
+    assert addition(2,2) == 4
+    assert addition(3,3) == 6
+
     print("Passed all tests!")
