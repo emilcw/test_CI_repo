@@ -1,5 +1,5 @@
 def sum_list(list1):
-    # Python program to find sum of elements in list
+    # Python program to find sum of elements in list wow
     total = 0
     # Iterate each element in list
     # and add them in variable total
